@@ -18,9 +18,11 @@ My first Python Project, a fun and interactive dice-rolling simulator with **smo
   - Users can choose how many dice they want to roll at a time.  
   - The sum of all dice is displayed for multi-dice rolls.
 
-- 🎨 **Enhanced UI for a More Enjoyable Experience**  
+- 🎨 **Enhanced UI for a More Enjoyable Experience**
+  - Designed for **Single** key operation (Enter).
   - Large, bold **ASCII dice graphics** give a satisfying visual result.   
-  - Subtle **delays and transitions** add a natural flow to interactions.  
+  - Subtle **delays and transitions** add a natural flow to interactions.
+  - **Sums** the rolled die to make playing board games with multiple die, more engaging.
   - Uses `os.system('cls')` to refresh the screen for **smooth transitions**. [use 'cls' for Windows and 'clear' for MacOS/Linux]
 
 Happy dice rolling! 🎲🔄
