@@ -23,6 +23,6 @@ My first Python Project, a fun and interactive dice-rolling simulator with **smo
   - Large, bold **ASCII dice graphics** give a satisfying visual result.   
   - Subtle **delays and transitions** add a natural flow to interactions.
   - **Sums** the rolled die to make playing board games with multiple die, more engaging.
-  - Uses `os.system('cls')` to refresh the screen for **smooth transitions**. [use 'cls' for Windows and 'clear' for MacOS/Linux]
+  - Uses `os.system('cls')` to refresh the screen for **smooth transitions** [use 'cls' for Windows and 'clear' for MacOS/Linux].
 
 Happy dice rolling! 🎲🔄
